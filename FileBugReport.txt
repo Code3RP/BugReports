@@ -1,0 +1,9 @@
+This is so anyone can file a bug report to our Development Team. This helps us track all bugs and gives us a time frame.
+
+
+When Filing a Bug Report please follow these guidelines:
+
+
+WHAT:  [What is the bug]
+WHERE: [LOCATION IF THERE IS ONE]
+DESCRIPTION:  [give all details you can about the bug]
